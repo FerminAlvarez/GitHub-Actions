@@ -1,7 +1,7 @@
 body {
     display: grid;
     place-items: center;
-    background-color: bisque;
+    background-color: rgb(250, 232, 209);
   }
 
 h1{
